@@ -1,0 +1,27 @@
+#heading {
+    font-family: fantasy;
+    font-size: 27px;
+    color: rgb(88, 60, 77);
+    text-shadow: 1px 1px antiquewhite;
+    background-color: rgb(127, 173, 127);
+    border: ridge;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-color: rgb(47, 62, 63);
+}
+
+#instructions {
+    font-family: cursive;
+    font-size: 13px;
+}
+
+h3:hover {
+    cursor: initial;
+}
+
+canvas {
+    border: 3px ridge;
+    border-color: rgb(75, 50, 59);
+    margin-top: 200px;
+    box-shadow: 5px 10px 20px rgb(71, 0, 0);
+}
